@@ -1,9 +1,0 @@
-
-
-        	# Hi :) I'm Cozak92. This is web site which supports To do List and Weather.
-	# I want to register my coding. so I'm going to upload everything I make from this.
-	# it is composed of only Vanila JavaScript without library like something else
-	# it is very simple web site. you enter your name and than save your name in localstorage.
-	# and you also are able to make a To Do List and delete as well.
-	# at the the upper right of the homepage,  You can see where you are live in and how is temprature.
-	# at the middle of the hompage, You can see a box you to input your name, and what want to do.
